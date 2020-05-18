@@ -28,8 +28,8 @@ body {
   width: 100px;
   height: 100px;
   background-color: cadetblue;
-  margin: 10px;
   text-align: center;
+  margin: 10px;
   transition: 0.5s;
   text-emphasis: bold;
 }
@@ -38,8 +38,9 @@ body {
 #object2:hover,
 #object3:hover,
 #object4:hover {
-  width: 120px;
-  height: 120px;
+  text-transform: capitalize;
+  width: 140px;
+  height: 140px;
   background-color: darkslategrey;
   margin: 0px;
   text-align: center;
